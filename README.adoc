@@ -1,0 +1,10 @@
+= legacy-to-event-sourcing
+
+Sunny Tech 2024 :
+
+https://docs.google.com/presentation/d/162OXwX8m2qTUaOtuI3t_Ff8oVpvR9AhcLqvM9gcwUpE/edit?usp=sharing
+
+----
+./gradlew test
+----
+

@@ -4,6 +4,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+###  ###
+.idea/
+node_modules/
+presentation.html
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml

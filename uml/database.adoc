@@ -1,0 +1,24 @@
+
+
+[plantuml, svg]
+....
+@startjson
+{
+    "     CLIENT_FILE_EVENT    ": "",
+    "clientFileEventId": " UUID",
+    "dateTime": " DateTimeZ ",
+    "type": " Enum ",
+    "data": " JSON",
+    "clientFileId": {
+        "            CLIENT_FILE   ": "",
+        "clientFileId": " UUID",
+        "increment": " Long",
+        "": "",
+        "        Vue Aggregée      ": "",
+        "state": " CREATED | DONE   ",
+        "acceptationDate": " DateTimeZ",
+        "participantNames": " [ John, Bill ]"
+    }
+}
+@endjson
+....
